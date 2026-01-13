@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "四季回生",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-01-13T14:08:09.326071Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "四季回生",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_四季回生_AKASAKI.txt"
+    }
+  ]
+}
